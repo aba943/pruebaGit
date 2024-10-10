@@ -1,0 +1,13 @@
+html,body{
+    height: 100%;
+}
+*{
+    margin: 0;
+}
+header{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 400px;
+    border: 1px solid chartreuse;
+    box-shadow: orange 10px 5px 10px;
+}

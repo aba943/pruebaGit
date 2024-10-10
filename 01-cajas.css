@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+body, html{
+    height: 100%;
+}
+.contenedor{
+    background-color: peru;
+    height: 500px;
+    width: 50%;
+}
+.texto{
+    background-color: aquamarine;
+    display: block;
+}
+.aguamarina{
+    background-color: violet;
+    height: 500px;
+    width: 100px;
+    display: inline-block;
+}
+.cabecera{
+    background-color: blue;
+}
+.texto-cabecera{
+    background-color: beige;
+    width: 100px;
+    display: inline-block;
+}
